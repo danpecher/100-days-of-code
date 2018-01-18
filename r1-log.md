@@ -9,3 +9,6 @@ Wrote my first blog post ever (https://medium.com/@dan.pecher/a-new-start-advanc
 
 ### R1D1
 Started work on first app, and trying to keep it simple from the beginning - it's a note-taking app: https://github.com/danpecher/notes-app. Setup a rails project and create empty components.
+
+### R1D2
+Setup css modules and created basic layout with switchable notes (only dummy data for now). I haven't added redux to the project, but probably will. I feel like redux (or some other state management) is useful even in tiniest apps. Today's commits: https://github.com/danpecher/notes-app/search?q=committer-date%3A2018-01-18&type=Commits&utf8=%E2%9C%93
