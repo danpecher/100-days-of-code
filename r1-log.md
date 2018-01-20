@@ -16,3 +16,6 @@ Setup css modules and created basic layout with switchable notes (only dummy dat
 ### R1D3
 Replaced dummy notes with actual data from db and added some buttons (add, save, delete). Adding works, next step is to make saving and deleting work.
 Today's commits: https://github.com/danpecher/notes-app/search?q=committer-date%3A2018-01-19&type=Commits&utf8=%E2%9C%93
+
+### R1D4
+Today I added a TODO list to the [README](https://github.com/danpecher/notes-app/blob/master/README.md). Saving and deleting works and I also added ability to edit the note title. To make the code more consistent, I started using [prettier](https://github.com/prettier/prettier). I'm looking forward to playing with css so the app looks better.
