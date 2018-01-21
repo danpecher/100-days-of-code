@@ -19,3 +19,7 @@ Today's commits: https://github.com/danpecher/notes-app/search?q=committer-date%
 
 ### R1D4
 Today I added a TODO list to the [README](https://github.com/danpecher/notes-app/blob/master/README.md). Saving and deleting works and I also added ability to edit the note title. To make the code more consistent, I started using [prettier](https://github.com/prettier/prettier). I'm looking forward to playing with css so the app looks better.
+
+### R1D5
+Added a simple frontend search and started to work on text formatting (just simple B, U, I for now) so I'm reading about Selection API https://developer.mozilla.org/cs/docs/Web/API/Selection.
+Today's commit (1 🤷‍♂️): https://github.com/danpecher/notes-app/commit/b3fcc3bead43b56d863c005f7753b553f9260299
