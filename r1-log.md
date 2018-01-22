@@ -23,3 +23,6 @@ Today I added a TODO list to the [README](https://github.com/danpecher/notes-app
 ### R1D5
 Added a simple frontend search and started to work on text formatting (just simple B, U, I for now) so I'm reading about Selection API https://developer.mozilla.org/cs/docs/Web/API/Selection.
 Today's commit (1 🤷‍♂️): https://github.com/danpecher/notes-app/commit/b3fcc3bead43b56d863c005f7753b553f9260299
+
+### R1D6
+No commits today. I wanted to make simple text formatting, but after realising how much work that is, I decided to incorporate an existing text editor. Not that I were so lazy, but I think text formatting in JS is a challenge of itself and will make for a project of its own. In the future I will try to make my own simple text editor from scratch.
