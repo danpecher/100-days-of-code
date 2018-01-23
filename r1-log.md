@@ -26,3 +26,7 @@ Today's commit (1 🤷‍♂️): https://github.com/danpecher/notes-app/commit/
 
 ### R1D6
 No commits today. I wanted to make simple text formatting, but after realising how much work that is, I decided to incorporate an existing text editor. Not that I were so lazy, but I think text formatting in JS is a challenge of itself and will make for a project of its own. In the future I will try to make my own simple text editor from scratch.
+
+### R1D7
+Finished quilljs integration, added devise gem and made the app little bit prettier.
+I found out that the link to today's commits on github doesn't respect my timezone so sometimes it might return empty results even though I made commits that day. 
