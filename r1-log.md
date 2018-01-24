@@ -30,3 +30,6 @@ No commits today. I wanted to make simple text formatting, but after realising h
 ### R1D7
 Finished quilljs integration, added devise gem and made the app little bit prettier.
 I found out that the link to today's commits on github doesn't respect my timezone so sometimes it might return empty results even though I made commits that day. 
+
+### R1D8
+I updated the app to keep note content after switching between them and added autosave + logout link.
