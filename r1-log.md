@@ -33,3 +33,6 @@ I found out that the link to today's commits on github doesn't respect my timezo
 
 ### R1D8
 I updated the app to keep note content after switching between them and added autosave + logout link.
+
+### R1D9
+Finished notes app by styling login form and deploying to heroku. There is so much I could improve about this app but since it's just an exercise, I will leave it like that. Also I worked on [Brewtime app](https://brewtimeapp.com/) update.
