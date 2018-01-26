@@ -36,3 +36,6 @@ I updated the app to keep note content after switching between them and added au
 
 ### R1D9
 Finished notes app by styling login form and deploying to heroku. There is so much I could improve about this app but since it's just an exercise, I will leave it like that. Also I worked on [Brewtime app](https://brewtimeapp.com/) update.
+
+### R1D10
+I made some final fixes to @AppBrewtime before an update to app store and started working on a new app that could potentially be useful to people doing #100DaysOfCode. I setup rails project with react_on_rails and had some trouble enabling css modules. (fixed with https://github.com/rails/webpacker/blob/master/docs/webpack.md#overriding-loader-options-in-webpack-3-for-css-modules-etc)
