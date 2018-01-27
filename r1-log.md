@@ -39,3 +39,6 @@ Finished notes app by styling login form and deploying to heroku. There is so mu
 
 ### R1D10
 I made some final fixes to @AppBrewtime before an update to app store and started working on a new app that could potentially be useful to people doing #100DaysOfCode. I setup rails project with react_on_rails and had some trouble enabling css modules. (fixed with https://github.com/rails/webpacker/blob/master/docs/webpack.md#overriding-loader-options-in-webpack-3-for-css-modules-etc)
+
+### R1D11
+R1D11 first missed day (not because I was lazy but because I simply didn't find the time). But today I finally started coding my #100DaysOfCode app, after some initial fight with webpacker and hot reloading. Right now I'm coding the timeline and thinking about its design & UX.
