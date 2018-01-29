@@ -42,3 +42,6 @@ I made some final fixes to @AppBrewtime before an update to app store and starte
 
 ### R1D11
 R1D11 first missed day (not because I was lazy but because I simply didn't find the time). But today I finally started coding my #100DaysOfCode app, after some initial fight with webpacker and hot reloading. Right now I'm coding the timeline and thinking about its design & UX.
+
+### R1D12
+Pushed myself to code even though I returned home from camping tired at 8PM. Coded first simple version of the design of #100daysofcode app.
