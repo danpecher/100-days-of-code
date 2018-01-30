@@ -45,3 +45,6 @@ R1D11 first missed day (not because I was lazy but because I simply didn't find 
 
 ### R1D12
 Pushed myself to code even though I returned home from camping tired at 8PM. Coded first simple version of the design of #100daysofcode app.
+
+### R1D13
+Today I took a detour and dived into Redux documentation. I tried some basic examples and tomorrow I will start using Redux in my #100DaysOfCode app.
