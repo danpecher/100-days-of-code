@@ -48,3 +48,6 @@ Pushed myself to code even though I returned home from camping tired at 8PM. Cod
 
 ### R1D13
 Today I took a detour and dived into Redux documentation. I tried some basic examples and tomorrow I will start using Redux in my #100DaysOfCode app.
+
+### R1D14
+I started implementing TodoMVC using React&Redux to really grasp the concepts, hopefully tomorrow I will finish it so I can continue working on the #100DaysOfCode app – I'm getting tired of manually posting to Twitter + Github
