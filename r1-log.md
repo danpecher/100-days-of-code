@@ -51,3 +51,6 @@ Today I took a detour and dived into Redux documentation. I tried some basic exa
 
 ### R1D14
 I started implementing TodoMVC using React&Redux to really grasp the concepts, hopefully tomorrow I will finish it so I can continue working on the #100DaysOfCode app – I'm getting tired of manually posting to Twitter + Github
+
+### R1D15
+I still haven't finished the todomvc app..Even the (seemingly) simple things in programming can take exponentially longer than originally estimated😋 But fortunately purpose of this exercise is to learn, not to rush. And I'm learning a lot about react & redux
