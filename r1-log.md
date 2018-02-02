@@ -54,3 +54,6 @@ I started implementing TodoMVC using React&Redux to really grasp the concepts, h
 
 ### R1D15
 I still haven't finished the todomvc app..Even the (seemingly) simple things in programming can take exponentially longer than originally estimated😋 But fortunately purpose of this exercise is to learn, not to rush. And I'm learning a lot about react & redux
+
+### R1D16
+React/redux todomvc app is finished! I'm really starting to like Redux and the flux pattern. Looking forward to solving more complex problems with it! Tomorrow I will finally continue with the #100DaysOfCode app.
