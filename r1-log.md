@@ -57,3 +57,6 @@ I still haven't finished the todomvc app..Even the (seemingly) simple things in 
 
 ### R1D16
 React/redux todomvc app is finished! I'm really starting to like Redux and the flux pattern. Looking forward to solving more complex problems with it! Tomorrow I will finally continue with the #100DaysOfCode app.
+
+### R1D17
+No commits today but I started using Redux in my #100DaysOfCode app. Hopefully after this weekend I'll be able to use this app to post my daily log 🤞today at my job coding I used Vuex in one project and it was interesting to see how it compares to Redux.
