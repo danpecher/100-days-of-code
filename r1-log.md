@@ -60,3 +60,6 @@ React/redux todomvc app is finished! I'm really starting to like Redux and the f
 
 ### R1D17
 No commits today but I started using Redux in my #100DaysOfCode app. Hopefully after this weekend I'll be able to use this app to post my daily log 🤞today at my job coding I used Vuex in one project and it was interesting to see how it compares to Redux.
+
+### R1D18
+#100DaysOfCode app: I implemented basic posting using Redux (https://github.com/danpecher/daysofcode/commit/cec6a4aa52a36a71e77dedf3d2a581eefaae8f9a) and started working on authentication. I'm using https://github.com/omniauth/omniauth to connect with Github and Twitter. There will be an on-boarding process to guide the user through authentication. 
