@@ -66,3 +66,6 @@ No commits today but I started using Redux in my #100DaysOfCode app. Hopefully a
 
 ### R1D19
 #100DaysOfCode app: Today was less about coding and more about designing and thinking how the onboarding process should look. I designed it in sketch and started implementing frontend code for it.
+
+### R1D20
+#100DaysOfCode app: I decided to ditch the onboarding process and just display an overlay when the user is not logged in, so that's what I'm working now. Don't overcomplicate things :) Yesterday was a miss as I didn't find the time and/or energy. 
