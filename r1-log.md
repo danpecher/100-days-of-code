@@ -69,3 +69,6 @@ No commits today but I started using Redux in my #100DaysOfCode app. Hopefully a
 
 ### R1D20
 #100DaysOfCode app: I decided to ditch the onboarding process and just display an overlay when the user is not logged in, so that's what I'm working now. Don't overcomplicate things :) Yesterday was a miss as I didn't find the time and/or energy. 
+
+### R1D21
+#100DaysOfCode app: I'm already able to query twitter and github on the authenticated user's behalf and now I'm working on the interface where user chooses which file of which github repo is his 100DaysOfCode log (so it can later be updated automatically).
