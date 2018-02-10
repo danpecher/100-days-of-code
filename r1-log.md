@@ -72,3 +72,7 @@ No commits today but I started using Redux in my #100DaysOfCode app. Hopefully a
 
 ### R1D21
 #100DaysOfCode app: I'm already able to query twitter and github on the authenticated user's behalf and now I'm working on the interface where user chooses which file of which github repo is his 100DaysOfCode log (so it can later be updated automatically).
+
+
+### R1D22
+Today I'm already posting from the 100DaysOfCode app! It's still rough around the edges and needs more work, but at least for now the core functionality works. Remaining: support for projects, better design, public timeline, missed days, timezone setting.
