@@ -76,3 +76,6 @@ No commits today but I started using Redux in my #100DaysOfCode app. Hopefully a
 
 ### R1D22
 Today I'm already posting from the 100DaysOfCode app! It's still rough around the edges and needs more work, but at least for now the core functionality works. Remaining: support for projects, better design, public timeline, missed days, timezone setting.
+
+### R1D34
+I'm currently implementing missed days – there will be a rails job running every hour (bcs of timezones), adding missed days for users who didn't post on a given day.  It will be a challenge to properly handle timezones! (two missed days so i can test it 😜)
