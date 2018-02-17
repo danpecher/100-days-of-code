@@ -79,3 +79,7 @@ Today I'm already posting from the 100DaysOfCode app! It's still rough around th
 
 ### R1D23
 I'm currently implementing missed days – there will be a rails job running every hour (bcs of timezones), adding missed days for users who didn't post on a given day.  It will be a challenge to properly handle timezones! (two missed days so i can test it 😜)
+
+
+### R1D24
+After 3(!) missed days I revised what is left to do with this app and made a todo https://github.com/danpecher/daysofcode/blob/master/README.md, fixed tweet character counting  (URLs count differently https://developer.twitter.com/en/docs/basics/tco.html) and started reading about automated testing since that's my weak area.
