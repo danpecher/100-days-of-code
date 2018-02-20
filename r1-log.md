@@ -83,3 +83,6 @@ I'm currently implementing missed days – there will be a rails job running eve
 
 ### R1D24
 After 3(!) missed days I revised what is left to do with this app and made a todo https://github.com/danpecher/daysofcode/blob/master/README.md, fixed tweet character counting  (URLs count differently https://developer.twitter.com/en/docs/basics/tco.html) and started reading about automated testing since that's my weak area.
+
+### R1D25
+I added logout link to the app and studied more rails testing. I want to take it slow now and finally embrace testing as a part of my development routine, which is probably gonna take some time.
