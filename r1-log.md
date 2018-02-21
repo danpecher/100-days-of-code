@@ -86,3 +86,6 @@ After 3(!) missed days I revised what is left to do with this app and made a tod
 
 ### R1D25
 I added logout link to the app and studied more rails testing. I want to take it slow now and finally embrace testing as a part of my development routine, which is probably gonna take some time.
+
+### R1D26
+Today I read more about testing and minitest. I will start over with the 100daysofcode app and this time will make it less javascript-heavy and more tests-heavy. Redux/React isn't really needed in this project (and i knew that) but it was a good exercise.
