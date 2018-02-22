@@ -89,3 +89,6 @@ I added logout link to the app and studied more rails testing. I want to take it
 
 ### R1D26
 Today I read more about testing and minitest. I will start over with the 100daysofcode app and this time will make it less javascript-heavy and more tests-heavy. Redux/React isn't really needed in this project (and i knew that) but it was a good exercise.
+
+### R1D27
+I wrote down all functionality in great detail https://github.com/danpecher/daysofcode-simple/blob/master/README.md and wrote first tests. It feels better to practice TDD and have the tests covering your back, once you pass the initial resistance to write them.
