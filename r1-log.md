@@ -92,3 +92,6 @@ Today I read more about testing and minitest. I will start over with the 100days
 
 ### R1D27
 I wrote down all functionality in great detail https://github.com/danpecher/daysofcode-simple/blob/master/README.md and wrote first tests. It feels better to practice TDD and have the tests covering your back, once you pass the initial resistance to write them.
+
+### R1D28
+I haven't posted in a few days so I'm not gonna count them, but I have been studying Rails testing and struggling with reimplementing the features using TDD. I hope this turtle-speed will yield testing superpowers!
